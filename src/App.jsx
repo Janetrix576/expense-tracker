@@ -8,10 +8,10 @@ function App() {
 
   const [expenses, setExpenses] = useState([
     {
-      expense: "Grocery Shopping",
-      description: "Weekly grocery shopping at the local supermarket",
-      category: "Food & Groceries",
-      amount: "Ksh 10,570",
+      expense: "Dance Class Fees",
+      description: "Monthly fees for dance 98",
+      category: "Fitness",
+      amount: "Ksh 5,570",
       date: "April 5, 2025",
     },
     {
@@ -22,24 +22,24 @@ function App() {
       date: 'April 3, 2025',
     },
     {
-      expense: 'Coffee with Friends',
-      description: 'Afternoon coffee at the local café with friends',
-      category: 'Entertainment',
-      amount: 'Ksh 1,680',
+      expense: 'Skin care Products',
+      description: 'Facial wash and sunscreen ',
+      category: 'Self-care',
+      amount: 'Ksh 10,680',
       date: 'April 6, 2025',
     },
     {
       expense: 'Car Fuel',
       description: 'Full tank of gas for the car',
       category: 'Transportation',
-      amount: 'Ksh 7,000',
+      amount: 'Ksh 15,000',
       date: 'April 4, 2025',
     },
     {
-      expense: 'Movie Tickets',
-      description: 'Two tickets for the latest movie release',
-      category: 'Entertainment',
-      amount: 'Ksh 3,080',
+      expense: 'Hostel Rent',
+      description: 'Monthly rent for Qwetu hostel',
+      category: 'Housing',
+      amount: 'Ksh 20,500',
       date: 'April 7, 2025',
     },
 
